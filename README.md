@@ -22,3 +22,11 @@ Jupyter Notebook, VS Code
 ### Goals:
 Understand the key drivers of house prices in Chennai.
 Build a predictive model to assist buyers and sellers with price estimation.
+
+### Setup
+1. Clone the repo
+2. Update the Path of the dataset
+3. Install all the necessary packages by the following command
+```bash
+pip install -r requirements.txt
+```
